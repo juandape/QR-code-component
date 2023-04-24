@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <div className="card">
+        <div className="container__card">
           <QrCode />
           <Text />
         </div>

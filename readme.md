@@ -5,12 +5,13 @@
 create a QR code component using React
 
 ## Screenshot
-![print screen]()
+![print screen](./src/assets/print-screen.png)
 ## My process
 ### Built with
 - Semantic markup using vscode editor
 - React code using vite in vs code
 - CSS properties in a stylesheet file
+- Font Outfit
 
 ## What I learned
 I learn and practice how to create React components
